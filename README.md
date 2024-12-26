@@ -135,6 +135,9 @@ SegurancaAWS/
 ├── README.md                  # Documentação do projeto
 └── .gitignore                 # Arquivos a serem ignorados pelo Git
 ```
+## **🌟 Imagem Inicial do Projeto Criado**
+
+![Imagem Basica Inicial do projeto](link-da-imagem)
 
 ---
 
