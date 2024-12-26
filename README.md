@@ -137,7 +137,7 @@ SegurancaAWS/
 ```
 ## **🌟 Imagem Inicial do Projeto Criado**
 
-![Imagem Basica Inicial do projeto](link-da-imagem)
+![Imagem Basica Inicial do projeto](https://github.com/esaluno100/Gerenciamento-de-Seguran-a-e-Identidade-na-AWS-/blob/main/Lista%20de%20usu%C3%A1rios%20IAM.png)
 
 ---
 
